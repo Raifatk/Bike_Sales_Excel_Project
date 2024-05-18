@@ -32,5 +32,5 @@ The main goal of this project is to:
 - Create charts
 - Created Dashboards
 
-##Conclusion
+## Conclusion
 The Bike Sales Report provides valuable insights into the factors influencing bike purchases. These insights can help in making informed decisions for marketing strategies, sales planning. The data-driven approach taken in this project highlights the importance of understanding customer behavior to drive successful outcomes in the bike sales industry.
